@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Web-Resume/static/css/main.20b59997.chunk.css",
+    "main.js": "/Web-Resume/static/js/main.b188d7d1.chunk.js",
+    "main.js.map": "/Web-Resume/static/js/main.b188d7d1.chunk.js.map",
+    "runtime-main.js": "/Web-Resume/static/js/runtime-main.34a24f63.js",
+    "runtime-main.js.map": "/Web-Resume/static/js/runtime-main.34a24f63.js.map",
+    "static/js/2.a444154f.chunk.js": "/Web-Resume/static/js/2.a444154f.chunk.js",
+    "static/js/2.a444154f.chunk.js.map": "/Web-Resume/static/js/2.a444154f.chunk.js.map",
+    "index.html": "/Web-Resume/index.html",
+    "precache-manifest.f4e7324072bd8f9866fa0b90dd59b0e2.js": "/Web-Resume/precache-manifest.f4e7324072bd8f9866fa0b90dd59b0e2.js",
+    "service-worker.js": "/Web-Resume/service-worker.js",
+    "static/css/main.20b59997.chunk.css.map": "/Web-Resume/static/css/main.20b59997.chunk.css.map",
+    "static/js/2.a444154f.chunk.js.LICENSE.txt": "/Web-Resume/static/js/2.a444154f.chunk.js.LICENSE.txt",
+    "static/media/3.jpeg": "/Web-Resume/static/media/3.cf50c0e6.jpeg",
+    "static/media/Mathur_Shivank.pdf": "/Web-Resume/static/media/Mathur_Shivank.fcaf0ac0.pdf",
+    "static/media/RFID_bus.jpg": "/Web-Resume/static/media/RFID_bus.ab207482.jpg",
+    "static/media/TitlePanel.css": "/Web-Resume/static/media/background.105c0232.jpg",
+    "static/media/logo.png": "/Web-Resume/static/media/logo.86f228bb.png",
+    "static/media/smart-fridge.png": "/Web-Resume/static/media/smart-fridge.16dc5122.png",
+    "static/media/titleImage.jpg": "/Web-Resume/static/media/titleImage.9607ca2d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34a24f63.js",
+    "static/js/2.a444154f.chunk.js",
+    "static/css/main.20b59997.chunk.css",
+    "static/js/main.b188d7d1.chunk.js"
+  ]
+}
